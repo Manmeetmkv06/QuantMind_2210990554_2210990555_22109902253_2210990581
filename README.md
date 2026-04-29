@@ -1,0 +1,2 @@
+# QuantMind_2210990554_2210990555_22109902253_2210990581
+Research Paper submission
