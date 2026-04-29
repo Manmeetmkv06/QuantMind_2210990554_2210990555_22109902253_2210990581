@@ -1,2 +1,8 @@
-# QuantMind_2210990554_2210990555_22109902253_2210990581
-Research Paper submission
+Project Title: QuantMind
+Type:Research Paper
+Names      Roll. No.s
+2210990554 Manmeet Kaur
+2210990554 Mann Sharma
+2210992253 Sanya
+2210990581 Mohd Ishaan
+Current Status: Submitted Research paper 
